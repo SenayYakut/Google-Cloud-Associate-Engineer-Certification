@@ -5,3 +5,4 @@ Google Cloud Associate Engineer Certification Prep
 
    [where you can take the exam.](https://cloud.google.com/certification/cloud-engineer) 
  
+   [GDC Prizin Calculator](https://cloud.google.com/products/calculator/)
