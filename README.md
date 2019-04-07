@@ -21,6 +21,7 @@
 * Cloud SDK installation and quick start https://cloud.google.com/sdk/#Quick_Start
 * gcloud tool guide https://cloud.google.com/sdk/gcloud/
 
+## Suggested study resources for this section
 
 * Google Cloud Pricing Overview: https://cloud.google.com/pricing/
 * Google Cloud Pricing Calculator: https://cloud.google.com/products/calculator/
