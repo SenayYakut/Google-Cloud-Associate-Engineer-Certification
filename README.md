@@ -11,6 +11,17 @@
  
 * [GDC Prizing Calculator](https://cloud.google.com/products/calculator/)
 
+## Architecting with Google Cloud Platform: Infrastructure
+
+* Google Cloud Platform Fundamentals: Core Infrastructure
+* Essential Cloud Infrastructure: Foundation
+* Essential Cloud Infrastructure: Core Services
+* Elastic Cloud Infrastructure: Scaling and Automation
+* Elastic Cloud Infrastructure: Containers and Services
+
+
+
+
 ## Suggested study resources for this section
 
 * Google Cloud Platform Overview: https://cloud.google.com/docs/overview/
