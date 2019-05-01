@@ -2,7 +2,7 @@
 
 # Google Cloud Ecosystem
 
-## Google cloud Platform and Services
+## Google Cloud Platform and Services
 * CPUs, Memory Disks, Interfaces
 * Servers VM Instances
 * Clusters Cluster Management
@@ -16,10 +16,10 @@
 * Developers
 
 ## Infrastructure Analogy
-
 *
 
-
+## Google Cloud Shell
+* The Web 
 
 * [Get an account](https://cloud.google.com/)
 ## Path to Success
