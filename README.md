@@ -60,6 +60,9 @@ disks for VMs
 * Lab: Creating Virtual Machines
 * Lab: Working with Virtual Machines
 
+##  Cloud IAM
+* Members, roles, organizations, account administration, service accounts
+* Lab: Cloud IAM
 
 **More Resources:**
 
