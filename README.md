@@ -11,13 +11,12 @@
 * **Managing components:** component health, component functions, and performance, component backup, and replacement.
 * **Managing systems:** system avaliablilty, system performance, system costs.
 * **Managing resources:** users and identities,access to recources, resource consumptions
-
-
-
-
 * OPEN SOURCE software
 * Providers
 * Developers
+
+## Infrastructure Analogy
+
 *
 
 
