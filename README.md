@@ -49,6 +49,17 @@ _Auto mode network can be converted to custom mode network, but "once custom, al
 
 * Assign a range of IP addresses as ali
 
+## Virtual Networks
+
+* Cloud Virtual Networks(CVN), Projects, Networks, Subnetworks, IP addresses, Routes, Firewall rules.
+
+## Virtual Machines
+
+* GCE, tags, VM options, vCPUs, disk options, images, and special features of persistent
+disks for VMs
+* Lab: Creating Virtual Machines
+* Lab: Working with Virtual Machines
+
 
 **More Resources:**
 
