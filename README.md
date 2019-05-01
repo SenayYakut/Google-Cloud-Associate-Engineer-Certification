@@ -1,5 +1,27 @@
 # Google-Cloud-Associate-Engineer-Certification
 
+# Google Cloud Ecosystem
+
+## Google cloud Platform and Services
+* CPUs, Memory Disks, Interfaces
+* Servers VM Instances
+* Clusters Cluster Management
+* Serverless Autoscaling
+* IT Ops, SysOps, DevOps, Low Ops, No Ops
+* **Managing components:** component health, component functions, and performance, component backup, and replacement.
+* **Managing systems:** system avaliablilty, system performance, system costs.
+* **Managing resources:** users and identities,access to recources, resource consumptions
+
+
+
+
+* OPEN SOURCE software
+* Providers
+* Developers
+*
+
+
+
 * [Get an account](https://cloud.google.com/)
 ## Path to Success
 
