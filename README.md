@@ -19,7 +19,35 @@
 *
 
 ## Google Cloud Shell
-* The Web 
+*
+## API interfaces
+*
+## Google Cloud Platform Virtual Cloud (VPC) Objects
+* Projects
+* Networks
+* Subnetworks
+* Regions
+* Zones
+* IP addresses
+* vIRTUAL mACHINES
+* Routes
+* FireWalls
+
+### Projects & Networks
+**A project:**
+Assosiates objects and services with billing. Contains networks(quota max 5).
+**A network:**
+Has no IP ADDRESS RANGE.
+Is global and spans all avaliable regions.
+Contains subnetworks.
+Can be of type defoult, auto mode, or custom mode.
+
+_Auto mode network can be converted to custom mode network, but "once custom, always custom."_  
+
+
+
+**More Resources:**
+
 
 * [Get an account](https://cloud.google.com/)
 ## Path to Success
