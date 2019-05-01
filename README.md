@@ -44,6 +44,10 @@ Can be of type defoult, auto mode, or custom mode.
 
 _Auto mode network can be converted to custom mode network, but "once custom, always custom."_  
 
+## IP Adresses
+* DNS resolution for internal addresses
+
+* Assign a range of IP addresses as ali
 
 
 **More Resources:**
