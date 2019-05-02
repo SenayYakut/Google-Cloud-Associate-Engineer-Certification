@@ -64,6 +64,12 @@ disks for VMs
 * Members, roles, organizations, account administration, service accounts
 * Lab: Cloud IAM
 
+## Data Storage Services
+
+* Cloud Storage, Datastore, Bigtable, Cloud Resource Manager
+* Lab: Billing Administration
+* Lab: Examining Billing Data and BigQuery
+
 **More Resources:**
 
 
