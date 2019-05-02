@@ -70,6 +70,16 @@ disks for VMs
 * Lab: Billing Administration
 * Lab: Examining Billing Data and BigQuery
 
+## Resource Management
+* Billing, Quotas, Labels, Names, Cloud Resourse Manager
+* Lab: Billing Administration
+* Lab: Examining Billing Data and BigQuery
+
+## Resource Monitoring
+* Stackdriver, Monitoring, Logging, Error Reporting, Tracing, Debugging.
+* Lab: Resource Monitoring(Stackdriver)
+* Lab: Error Reporting and Debugging(Stackdriver)
+
 ### Day 1
 
 1. Confirm one VM instance is always one exactly one physical host.
