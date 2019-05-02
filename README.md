@@ -69,6 +69,29 @@ disks for VMs
 * Cloud Storage(only one not a database), Firebase can be an option as well, Datastore, Bigtable, Cloud Resource Manager
 * Lab: Billing Administration
 * Lab: Examining Billing Data and BigQuery
+
+### Day 1
+
+1. Confirm one VM instance is always one exactly one physical host.
+ a. Confirmed, at least for CPU and RAM, things like disks can come from other host.
+
+2. Can you increase CPU for a VM without shutdown?
+ a. NO
+
+3. In the Minecraft exercise, Why is the data on the SSD lost on stop and start?
+ a. It was just because the secondary disk had not been re-mounted in Linux after restart
+
+4. Is there such a thing as composite roles inGCP?
+  a.I dont think so, but you can filter the list of permissions by existing roles when creating the new one. So you could filter for each role to the new composite role.
+
+5. Are there any tools or strategies to sync IAM permission between AWS and GCP? How would the difference in inheritance exclusion work?
+ a. Somewhat useful blog by [Google](https://cloud.google.com/blog/products/gcp/google-cloud-iam-for-aws-users)
+
+ b. Maybe Stratoscale, cant tell for sure [link](https://www.stratoscale.com/products/indentity-access-management/) 
+
+ c. Jump Cloud Directory as a Service, seems more likely, but still not sure [link](https://jumpcloud.com/product/)
+ 
+
 ### Day 2
 1. Do signed URLs for cloud storage require a public/private key pair on the part of the recepient? The signing is done by the sender.
 a. No
