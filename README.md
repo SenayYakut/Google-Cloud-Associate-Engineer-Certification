@@ -66,7 +66,7 @@ disks for VMs
 
 ## Data Storage Services
 
-* Cloud Storage, Datastore, Bigtable, Cloud Resource Manager
+* Cloud Storage(only one not a database), Firebase can be an option as well, Datastore, Bigtable, Cloud Resource Manager
 * Lab: Billing Administration
 * Lab: Examining Billing Data and BigQuery
 
