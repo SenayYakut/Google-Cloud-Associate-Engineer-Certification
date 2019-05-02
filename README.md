@@ -101,15 +101,23 @@ disks for VMs
 
 5. Are there any tools or strategies to sync IAM permission between AWS and GCP? How would the difference in inheritance exclusion work?
 
-  a. Somewhat useful blog by [Google](https://cloud.google.com/blog/products/gcp/google- cloud-iam-for-aws-users)
+  a. Somewhat useful blog by 
 
-  b. Maybe Stratoscale, cant tell for sure [link](https://www.stratoscale.com/products/indentity-access-management/) 
+[Google](https://cloud.google.com/blog/products/gcp/google- cloud-iam-for-aws-users)
 
-  c. Jump Cloud Directory as a Service, seems more likely, but still not sure [link](https://jumpcloud.com/product/)
+  b. Maybe Stratoscale, cant tell for sure [link]
 
-  d. Salespoint, seems most likely [link](https://www.sailpoint.com/solutions/?elqct=Website&elqchannel=OrganicDirect)
+(https://www.stratoscale.com/products/indentity-access-management/) 
 
-     i. __"Our Cloud Identity Governance Platform allows you to connect and centrally control access to every application, file folder and cloud platform across your hybrid IT environment.”__
+  c. Jump Cloud Directory as a Service, seems more likely, but still not sure [link]
+
+(https://jumpcloud.com/product/)
+
+  d. Salespoint, seems most likely
+
+ [link](https://www.sailpoint.com/solutions/?elqct=Website&elqchannel=OrganicDirect)
+
+   i. __"Our Cloud Identity Governance Platform allows you to connect and centrally control access to every application, file folder and cloud platform across your hybrid IT environment.”__
 
  
 
