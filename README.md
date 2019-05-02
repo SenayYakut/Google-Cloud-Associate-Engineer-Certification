@@ -101,7 +101,7 @@ disks for VMs
 
 5. Are there any tools or strategies to sync IAM permission between AWS and GCP? How would the difference in inheritance exclusion work?
 
-  a. Somewhat useful blog by [Google](https://cloud.google.com/blog/products/gcp/google- cloud-iam-for-aws-users)
+  a. Somewhat useful blog by [Google](https://cloud.google.com/blog/products/gcp/google-cloud-iam-for-aws-users)
 
   b. Maybe Stratoscale, cant tell for sure [link](https://www.stratoscale.com/products/indentity-access-management/) 
 
