@@ -123,6 +123,19 @@ a. No
 
 2. When downloading a cloud storage object via REST API, if it has been encrypted with customer supplied key, how and when is it decrypted?
 
+ a. Docs show it, for most things in the docs there are tabs to switch between instrux for GUI, CLI, and API [LINK](https://cloud.google.com/storage/docs/encryption/using-customer-supplied-keys)
+
+3. AWS Stackdriver be used on prem?
+ a. Doesnt seem to be a 1 on 1, but here are a couple of comparisons, [DynamoDB, Redshift](https://db-engines.com/en/system/Amazon+DynamoDB%3BGoogle+Cloud+Bigtable)
+4. Can Stackdriver be used on prem? 
+5. Do you need to install the Stackdriver agents on GCP VMs? For what use cases?
+  a. Seems yes
+  b. What about use cases? Which metrics require the agent? - docs, pretty clear in docs, esp under purpose
+
+
+
+
+
 **More Resources:**
 
 
