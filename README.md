@@ -85,6 +85,8 @@ disks for VMs
 * Labs: Virtual Private Networks (VPN)
 * Labs: Dynamic VPN with Cloud Routers
 ## Load Balancing
+* Network Load Balancing, HTTP(S) Load Balancing, SSL Load Balancing and Internal Load Balancing, Managed Instance Groups.
+* Lab: VM Automation and Load Balancing
 
 ### Day 1
 
