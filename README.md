@@ -80,6 +80,11 @@ disks for VMs
 * Lab: Resource Monitoring(Stackdriver)
 * Lab: Error Reporting and Debugging(Stackdriver)
 
+## Interconnecting Networks
+* VPNs, Cloud Router, Cloud Interconnect, Direct Peering, Cloud DNS
+* Labs: Virtual Private Networks (VPN)
+* Labs: Dynamic VPN with Cloud Routers
+
 ### Day 1
 
 1. Confirm one VM instance is always one exactly one physical host.
