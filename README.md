@@ -84,6 +84,7 @@ disks for VMs
 * VPNs, Cloud Router, Cloud Interconnect, Direct Peering, Cloud DNS
 * Labs: Virtual Private Networks (VPN)
 * Labs: Dynamic VPN with Cloud Routers
+## Load Balancing
 
 ### Day 1
 
