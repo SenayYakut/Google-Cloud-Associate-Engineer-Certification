@@ -69,6 +69,11 @@ disks for VMs
 * Cloud Storage(only one not a database), Firebase can be an option as well, Datastore, Bigtable, Cloud Resource Manager
 * Lab: Billing Administration
 * Lab: Examining Billing Data and BigQuery
+### Day 2
+1. Do signed URLs for cloud storage require a public/private key pair on the part of the recepient? The signing is done by the sender.
+a. No
+
+2. When downloading a cloud storage object via REST API, if it has been encrypted with customer supplied key, how and when is it decrypted?
 
 **More Resources:**
 
