@@ -106,16 +106,12 @@ disks for VMs
 [Google](https://cloud.google.com/blog/products/gcp/google- cloud-iam-for-aws-users)
 
   b. Maybe Stratoscale, cant tell for sure [link]
-
 (https://www.stratoscale.com/products/indentity-access-management/) 
 
-  c. Jump Cloud Directory as a Service, seems more likely, but still not sure [link]
-
-(https://jumpcloud.com/product/)
+  c. Jump Cloud Directory as a Service, seems more likely, but still not sure [link](https://jumpcloud.com/product/)
 
   d. Salespoint, seems most likely
-
- [link](https://www.sailpoint.com/solutions/?elqct=Website&elqchannel=OrganicDirect)
+[link](https://www.sailpoint.com/solutions/?elqct=Website&elqchannel=OrganicDirect)
 
    i. __"Our Cloud Identity Governance Platform allows you to connect and centrally control access to every application, file folder and cloud platform across your hybrid IT environment.”__
 
