@@ -142,7 +142,9 @@ a. No
 9. How does Google respond to public IPs from any region in the FE of a LB?
 10. What might you LB other than HTTP/HTTPs traffice?
 
+### Day 3
 
+* [Google Training Site](https://cloud.google.com/training/)
 
 
 **More Resources:**
@@ -166,8 +168,6 @@ a. No
 * Essential Cloud Infrastructure: Core Services
 * Elastic Cloud Infrastructure: Scaling and Automation
 * Elastic Cloud Infrastructure: Containers and Services
-
-
 
 
 ## Suggested study resources for this section
