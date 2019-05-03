@@ -88,6 +88,11 @@ disks for VMs
 * Network Load Balancing, HTTP(S) Load Balancing, SSL Load Balancing and Internal Load Balancing, Managed Instance Groups.
 * Lab: VM Automation and Load Balancing
 
+## Infrastructure Automation with Cloud API
+* Infrastructure automation, custom images, startup and shutdown scripts and metadata
+* Lab: Cloud API Infrastructure Automation
+
+
 ### Day 1
 
 1. Confirm one VM instance is always one exactly one physical host.
