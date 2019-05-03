@@ -136,7 +136,11 @@ a. No
 5. Do you need to install the Stackdriver agents on GCP VMs? For what use cases?
   a. Seems yes
   b. What about use cases? Which metrics require the agent? - docs, pretty clear in docs, esp under purpose
-
+6. Premium network tier for LB front end?
+7. "A backend service may have up to 500 endpoints per zone" --what does it meean?
+8. How does GCP's distribited LB work?
+9. How does Google respond to public IPs from any region in the FE of a LB?
+10. What might you LB other than HTTP/HTTPs traffice?
 
 
 
