@@ -88,9 +88,21 @@ disks for VMs
 * Network Load Balancing, HTTP(S) Load Balancing, SSL Load Balancing and Internal Load Balancing, Managed Instance Groups.
 * Lab: VM Automation and Load Balancing
 
+## Autoscaling
+* Autoscaler
+* Lab: Autoscaling
+
 ## Infrastructure Automation with Cloud API
 * Infrastructure automation, custom images, startup and shutdown scripts and metadata
 * Lab: Cloud API Infrastructure Automation
+
+## Infrastructure Automation with Deployment Manager
+* Deployment Manager templates
+* Lab: Deployment Manager
+
+## Managed Services
+* Dataproc, Dataflow, BigQuery, Datalab
+
 
 
 ### Day 1
