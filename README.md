@@ -103,6 +103,32 @@ disks for VMs
 ## Managed Services
 * Dataproc, Dataflow, BigQuery, Datalab
 
+## Application Development Infrastructure
+* Cloud Pub/Sub, Cloud Endpoints and Apigee, Cloud Functions
+
+## Application Development Services
+* Google App Engine (GAE), Dev Tools, Cloud Source Repos.
+* Lab: App Engine Development
+
+## Containers
+* Containers, Google Container Engine (GKE), and Container Registry.
+* Lab: Kubernetes Load Balancing
+ 
+Date And Time
+Wed, May 1, 2019, 9:00 AM –
+
+Fri, May 3, 2019, 6:00 PM PDT
+
+Location
+Google San Francisco
+
+One Market Plaza
+
+7th Floor
+
+San Francisco
+
+View Map
 
 
 ### Day 1
