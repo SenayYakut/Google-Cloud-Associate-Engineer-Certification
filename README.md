@@ -173,23 +173,39 @@ a. No
 4. Can Stackdriver be used on prem? 
 5. Do you need to install the Stackdriver agents on GCP VMs? For what use cases?
   a. Seems yes
-  b. What about use cases? Which metrics require the agent? - docs, pretty clear in docs, esp under purpose
+  b. What about use cases? Which metrics require the agent? - [docs](https://cloud.google.com/monitoring/agent/), pretty clear in docs, esp under purpose
 6. Premium network tier for LB front end?
+  a. “hot-potato routing is the practice of passing traffic off to another autonomous system as quickly as possible, thus using their network for wide-area transit. Cold-potato routing is the opposite, where the originating autonomous system holds onto the packet until it is as near to the destination as possible.[1]” - [wiki](https://en.wikipedia.org/wiki/Hot-potato_and_cold-potato_routing)
+  b. Official [docs](https://cloud.google.com/network-tiers/?hl=en_US)
 7. "A backend service may have up to 500 endpoints per zone" --what does it meean?
+  a.[Docs](https://cloud.google.com/load-balancing/docs/negs/#overview)
 8. How does GCP's distribited LB work?
 9. How does Google respond to public IPs from any region in the FE of a LB?
 10. What might you LB other than HTTP/HTTPs traffice?
+  a. Mail, ftp
 
 ### Day 3
 
 * [Google Training Site](https://cloud.google.com/training/)
-
+1. Does dataflow commit to process at most once or at least once?
+   a. Exactly once! Official blog
+2. How is concurrency handled in Cloud Functions, when you use a multithreaded language like Go? Are there actually multiple threads available to a single instance of a function running for Go to leverage. 
+3.How do containers within a pod communicate, given that the pod has 1 IP and the containers share it?
+4. Why does GKE not allow global clusters? Why have to use Istio or something to achieve that with multiple clusters?
+5. Why does the K8s LB lab put all the Pods on one node?
 
 **More Resources:**
+1. [Qwiklabs](https://googlecloud.qwiklabs.com)   ← Then Signup Here
+2. [Tool to automatically generate diagrams of GCP resources (pricy) -](https://www.cloudockit.com/automatically-generate-google-cloud-platform-gcp-diagrams-visio-and-draw-io-with-cloudockit/)
+3. Automated Testing for Infrastructure
+  a. Terratest
+  b. Article
+4.[Meetup Group for classes like this one:](https://www.meetup.com/San-Francisco-User-Group-Google-Cloud/)
+5. SADA Systems
 
+## Path to Success
 
 * [Get an account](https://cloud.google.com/)
-## Path to Success
 
 * [Review the exam guide](https://cloud.google.com/certification/guides/cloud-engineer/)
 
